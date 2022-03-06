@@ -1,0 +1,47 @@
+/*
+Theme Name: Xavier - Contato
+Theme URI: http://www.Xavier.com.br
+Author: Pedro Moura
+Author URI: http://www.PedroMoura.com
+Description: Este tema foi criado com intuito de favorecer a preservação da natureza
+Version: 1.0
+License: GNU General Public License v2 or later
+Text Domain: Tyr
+Tags: Xavier, Advocacia, Contato
+*/
+
+
+
+.login h1 a {
+background-image: url('images/logo.jpg');
+background-size: 250px 150px;
+width: 250px;
+height: 150px;
+}
+
+body.login {
+background-image: url('images/back.jpg');
+background-repeat: no-repeat;
+background-position: flex;
+background-size: 100%;
+}
+
+#circulo{
+
+	left:50%;
+		top:50%;
+		 border-width: medium;
+		margin-left: 16%;
+		margin-right: 16%;
+		margin-top: 40px;
+  height:100px;
+  right: 100px; 
+  border: groove;
+  border-color: gray;
+  background: #FFFFFF;
+  border: 1.4px solid #e0e0e0;
+}
+
+body {
+  background-color: rgba(255,0,0,0.5); 
+}
